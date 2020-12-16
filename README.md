@@ -1,0 +1,1 @@
+# DA_Term_Project_Smoke_Detection_through_Satellite_Imagery
